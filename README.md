@@ -1,11 +1,23 @@
-### 👋 Hi, I’m Krishna.
-- 👀 I’m interested in AI, backend development, machine learning, and integrating tech in robotic and drone technology.
-- 🌱 I’m currently learning Django, TensorFlow and PyTorch.
-- 💞️ I’m looking to collaborate on a Project related to AI, Machine Learning, Drones, Robotics, and Backend Dev.
+### 👋 Hi, I’m Krishna 
 
-- 📫 To reach me,
-  - 📧 Email: krishnabirla336@gmail.com
-  - 🔗 LinkedIn: [krishnabirla](https://www.linkedin.com/in/krishnabirla)
+🎯 I love building things that *work smart*—especially where **AI**, **backend systems**, and **real-world tech** like **drones** and **robotics** meet.   
+
+🧠 I am learning and exploring **Django**, **TensorFlow**, and **PyTorch** to sharpen my stack.    
+
+🤝 Looking to collaborate on ideas that push boundaries in **AI**, **ML**, and **tech-enabled automation**.  
+
+
+#### 🛠️ Tech I work with
+**Languages & Frameworks:** Python, Django, JavaScript, SQL, Node.js  
+**Tools & Tech:** Git, Hugging Face, MongoDB, REST APIs.  
+**Python Libraries:** NumPy, Pandas, Matplotlib, Scikit Learn 
+
+**Currently exploring:** FastAPI, Docker, cloud deployment (AWS/GCP)
+
+
+#### 📬 Let’s Connect
+📧 Email: [krishnabirla336@gmail.com](mailto:krishnabirla336@gmail.com)  
+🔗 LinkedIn: [krishnabrila](https://www.linkedin.com/in/krishnabirla)
 
 
 <!---
