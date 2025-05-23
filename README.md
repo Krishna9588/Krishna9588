@@ -12,7 +12,7 @@
 **Tools & Tech:** Git, Hugging Face, MongoDB, REST APIs.  
 **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit Learn 
 
-**Currently exploring:** FastAPI, Docker, cloud deployment (AWS/GCP)
+**Currently exploring:** FastAPI, Docker, cloud deployment (AWS/GCP).
 
 
 #### 📬 Let’s Connect
