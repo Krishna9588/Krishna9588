@@ -1,10 +1,10 @@
-### 👋 Hi, I’m Krishna 
+### Hi, I’m Krishna 
 
-🎯 I love building things that *work smart*—especially where **AI**, **backend systems**, and **real-world tech** like **drones** and **robotics** meet.   
+I love building things that *work smart*—especially where **AI**, **backend systems**, and **real-world tech** like **drones** and **robotics** meet.   
 
-🧠 I am learning and exploring **Django**, **TensorFlow**, and **PyTorch** to sharpen my stack.    
+I am learning and exploring **Django**, **TensorFlow**, and **PyTorch** to sharpen my stack.    
 
-🤝 Looking to collaborate on ideas that push boundaries in **AI**, **ML**, and **tech-enabled automation**.  
+Looking to collaborate on ideas that push boundaries in **AI**, **ML**, and **tech-enabled automation**.  
 
 
 #### 🛠️ Tech I work with
