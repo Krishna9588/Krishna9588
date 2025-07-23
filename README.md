@@ -10,7 +10,7 @@
 #### 🛠️ Tech I work with
 **Languages & Frameworks:** Python, Django, JavaScript, SQL, Node.js  
 **Tools & Tech:** Git, Hugging Face, MongoDB, REST APIs.  
-**Python Libraries:** NumPy, Pandas, Matplotlib, Scikit Learn 
+**Python Libraries:** NumPy, Pandas, Matplotlib, Scikit Learn, Selenium, Playwright. 
 
 **Currently exploring:** FastAPI, Docker, cloud deployment (AWS/GCP).
 
