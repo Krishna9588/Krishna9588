@@ -7,7 +7,7 @@ I am learning and exploring **Django**, **TensorFlow**, and **PyTorch** to sharp
 Looking to collaborate on ideas that push boundaries in **AI**, **ML**, and **tech-enabled automation**.  
 
 
-#### 🛠️ Tech I work with
+#### 🛠️ Tech stack I work with
 **Languages & Frameworks:** Python, Django, JavaScript, SQL.  
 **Tools & Tech:** Git, Hugging Face, MongoDB, REST APIs.  
 **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit Learn, Selenium, Playwright. 
