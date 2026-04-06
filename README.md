@@ -43,17 +43,3 @@ I am an **AI Engineer Intern at ProPlus Data** with a passion for solving comple
 </div>
 
 ---
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishna9588&show_icons=true&theme=radical" height="150" alt="Krishna's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna9588&layout=compact&theme=radical" height="150" alt="Top Languages" />
-
-<br/>
-<br/>
-
-<sub>Let's collaborate on ideas that push boundaries in AI and Automation!</sub>
-
-</div>
