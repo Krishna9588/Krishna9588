@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=110&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=E2E8F0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Krishna+Birla.;I+build+things+that+think.;AI+%C3%97+Backend+%C3%97+Real+World.;currently+not+debugging.+(lying)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=E2E8F0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Krishna+Birla.;I+build+things+that+think.;AI+%C3%97+Automation+%C3%97+Backend+%C3%97+Real+World.;currently+not+debugging.+(lying)" alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +36,7 @@ mood:     Coffee → Code → Repeat
 
 ### what I actually do
 
-I work at the intersection of AI, backend systems, and real-world data. Not "I know ML" kind of AI — the kind where you ship RAG pipelines, wire up LLMs to production services, and then stare at a FastAPI error at 2am wondering where your life went.
+I work at the intersection of AI, backend systems, and real world data. Not "I know ML" kind of AI — the kind where you ship RAG pipelines, wire up LLMs to production services, and then stare at a FastAPI error at 2am wondering where your life went.
 
 Right now that looks like building enterprise AI tools, ETL pipelines, and systems that turn messy data into something useful. The north star is drones and robotics — making hardware that genuinely thinks.
 
@@ -57,7 +57,7 @@ Right now that looks like building enterprise AI tools, ETL pipelines, and syste
 <td width="50%" valign="top">
 
 **Verification Engine**
-Scans websites and docs at scale, gives data-driven insights on software adoption. Built for enterprise.
+Scans websites and docs at scale, gives data driven insights on software adoption. Built for enterprise.
 `Python` `Scraping` `LLM Analysis`
 
 **Stock Assist**
@@ -65,18 +65,18 @@ Reads balance sheets, cash flows, income statements and translates them into pla
 `Python` `LLM` `Finance`
 
 **UIDAI Data Hackathon 2026**
-Unlocking societal trends hidden in Aadhaar enrolment data. National-level civic tech challenge.
+Unlocking societal trends hidden in Aadhaar enrolment data. National level civic tech challenge.
 `Python` `Data Engineering` `Civic Tech`
 
 </td>
 <td width="50%" valign="top">
 
 **Marketing Analysis**
-End-to-end sales analytics — customer behaviour, product performance, trend detection.
+End to end sales analytics — customer behaviour, product performance, trend detection.
 `Python` `Pandas` `Analytics`
 
 **Data Scraping Engine**
-Selenium-based pipeline scraping company contact data at scale. Structured output, production-ready.
+Selenium based pipeline scraping company contact data at scale. Structured output, production-ready.
 `Python` `Selenium` `ETL`
 
 **Insights**
