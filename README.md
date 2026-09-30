@@ -1,174 +1,192 @@
+<!-- Profile README for github.com/Krishna9588 -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=110&section=header" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=110&section=header)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=E2E8F0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Krishna+Birla.;I+build+things+that+think.;AI+%C3%97+Automation+%C3%97+Backend+%C3%97+Real+World.;currently+not+debugging.+(lying)" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=E2E8F0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Krishna+Birla.;I+build+AI+systems+that+ship.;Agents+%7C+RAG+%7C+Backend+%7C+Data.;Currently+not+debugging.+(lying);It+works+on+my+machine.)](https://github.com/Krishna9588)
 
-<br/>
+</div>
 
-<table align="center">
+<br>
+
+<table>
 <tr>
-<td align="right" width="45%">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210" alt="coding gif"/>
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </td>
-<td align="left" width="55%">
+<td width="60%" valign="middle">
 
-```yaml
-name:     Krishna Birla
-role:     AI Engineer + Builder
-based_in: Pune, India
-status:   Building things I wish existed
-focus:    [ AI systems, Backend, Data, Drones ]
-mood:     Coffee → Code → Repeat
-```
+<pre>
+name:      Krishna Birla
+role:      AI/ML Engineer
+works_at:  ProPlus Data (Jr. ML Associate)
+based_in:  Pune, India
+building:  RAG systems, agent pipelines, backends
+next:      B2B services, Edutech, observing 
+fuel:      Coffee &gt; Code &gt; Repeat
+</pre>
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+### what I do
+
+I turn messy data into systems that answer questions. Mostly Python, mostly AI, always with a backend that has to survive real users.
+
+- **Agentic AI:** multi agent pipelines with LangChain, LangGraph and local models on Ollama
+- **RAG and fine tuning:** retrieval systems on MongoDB Atlas, a fine tuned Llama 3 model at work
+- **Backend:** FastAPI and Flask services that put AI behind a clean API
+- **Data and scraping:** Selenium, Playwright and Apify pipelines that collect data at scale
+
+![AI working gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)  
+*me explaining to stakeholders why the model needs more data*
 
 ---
 
-### what I actually do
+### now
 
-I work at the intersection of AI, backend systems, and real world data. Not "I know ML" kind of AI — the kind where you ship RAG pipelines, wire up LLMs to production services, and then stare at a FastAPI error at 2am wondering where your life went.
+**Jr. ML Associate at ProPlus Data** (Jun 2025 to present), working on **Nexora**.
 
-Right now that looks like building enterprise AI tools, ETL pipelines, and systems that turn messy data into something useful. The north star is drones and robotics — making hardware that genuinely thinks.
-
-<div align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="380" alt="AI working gif"/>
-<br/>
-<sub><i>me explaining to stakeholders why the model needs more data</i></sub>
-</div>
-
-<br/>
+- Led the backend, AI integration and MongoDB Atlas setup for a custom RAG system
+- Fine tuned a Llama 3 model on company data and wired real time web access around it
+- Moved the Decision Logic Pipeline from an external API to local models: concurrency went from **1 to 6**, processing got **4x faster**, and costs dropped
 
 ---
 
-### things I've shipped
+### by the numbers
+
+| **4x** | **35** | **5** | **47K+** | **8.41** |
+| :---: | :---: | :---: | :---: | :---: |
+| faster processing after going local | agents in my SLM swarm | agents in Founders Intelligence | Q&A pairs in my Medical FAQ RAG | CGPA out of 10 |
+
+---
+
+### things I have shipped
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Verification Engine**
-Scans websites and docs at scale, gives data driven insights on software adoption. Built for enterprise.
-`Python` `Scraping` `LLM Analysis`
-
-**Stock Assist**
-Reads balance sheets, cash flows, income statements and translates them into plain English so investors don't have to pretend they understood.
-`Python` `LLM` `Finance`
-
-**UIDAI Data Hackathon 2026**
-Unlocking societal trends hidden in Aadhaar enrolment data. National level civic tech challenge.
-`Python` `Data Engineering` `Civic Tech`
+**[Founders Intelligence](https://github.com/Krishna9588/insights_platform)**  
+A 5 agent pipeline that turns competitor data, news and social signals into product insights, with a RAG chat on top. [Live demo](https://foundersintelligence.vercel.app)  
+`Python` `FastAPI` `LangChain` `React` `MongoDB Atlas`
 
 </td>
 <td width="50%" valign="top">
 
-**Marketing Analysis**
-End to end sales analytics — customer behaviour, product performance, trend detection.
-`Python` `Pandas` `Analytics`
+**[Multi Agent SLM Swarm](https://github.com/Krishna9588/multi_agent_slm)**  
+A fully local system. A LangGraph orchestrator routes work across 35 agents on 3 Ollama models. Zero API cost.  
+`Python` `LangGraph` `Ollama` `Playwright`
 
-**Data Scraping Engine**
-Selenium based pipeline scraping company contact data at scale. Structured output, production-ready.
-`Python` `Selenium` `ETL`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Insights**
-Data visualisation and analytics interface for surfacing patterns from raw datasets.
-`HTML` `Python` `Dashboarding`
+**[Verification Engine](https://github.com/Krishna9588/Verification_Engine)**  
+Scans websites and documents at scale and checks data accuracy for company databases. Runs in Docker.  
+`Python` `Docker` `Selenium` `Pytest`
+
+</td>
+<td width="50%" valign="top">
+
+**[Drone Security Agent](https://github.com/Krishna9588/Drone-Security-Agent)**  
+Real time security analysis for docked drones. Reads telemetry and video frames, then raises alerts from LOW to CRITICAL.  
+`Python` `Gemini` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Archiscan AI](https://krishna9588.github.io/Archiscan-AI/)**  
+Drone photos to 3D model to floor plan. Built with two teammates. Backed by an IEEE paper.  
+`Python` `GenAI` `Photogrammetry`
+
+</td>
+<td width="50%" valign="top">
+
+**[UIDAI Data Hackathon 2026](https://github.com/Krishna9588/UIDAI-Data-Hackathon-2026)**  
+Aadhaar enrolment and update trends: urban vs rural gaps, unusual spikes, and a forecast of future load.  
+`Python` `Pandas` `Forecasting`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<details>
+<summary><b>More builds</b></summary>
+
+<br>
+
+- **[Stock Assist](https://github.com/Krishna9588/stock_assist):** reads balance sheets, cash flows and income statements and explains them in plain English
+- **[Medical FAQ RAG Chatbot](https://github.com/Krishna9588/RAG-Medical-FAQ-Chatbot):** FAISS search over 47K+ medical Q&A pairs, with a Streamlit UI and BLEU and ROUGE checks
+- **[Data Scraping Engine](https://github.com/Krishna9588/Data_Scraping):** Selenium pipeline that collects company contact data
+- **[Botnet Detection](https://github.com/Krishna9588/Botnet-Detection-using-ML):** Random Forest on the CTU 13 dataset, with a Streamlit dashboard
+- **[Marketing Analysis](https://github.com/Krishna9588/Marketing-Analysis---Case-Study):** sales trends, customer behaviour and product performance with Pandas
+
+</details>
+
+![productive coding gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)  
+*actual footage of me when the pipeline finally runs clean*
 
 ---
 
 ### things I reach for
 
-<div align="center">
+| | |
+| :--- | :--- |
+| **Languages** | ![Python](https://skillicons.dev/icons?i=py,js,bash&theme=dark) |
+| **AI and agents** | ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langgraph&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logo=crewai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-0d1117?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square) |
+| **Backend and data** | ![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,mongodb,supabase,sqlite&theme=dark) ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white) |
+| **Infra and testing** | ![Infra](https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,gcp,selenium&theme=dark) ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square) ![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=flat-square&logo=pytest&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-0d1117?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-0d1117?style=flat-square) |
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+---
 
-</div>
+### papers and certificates
 
-<br/>
+- **IEEE** research paper: *Architectural Design by Blueprint Generation using GenAI* (May 2026)
+- **IJSRET** research paper: *Landslide Prediction Using ML and GIS Based Approach* (May 2025)
+- **Oracle** Certified Generative AI Professional (Oct 2025)
+- **DataKind** open source contribution on [financial inclusion data for India](https://github.com/Krishna9588/datakit-spring-25-india) (Apr 2025)
+
+**Education:** B.E. in Artificial Intelligence and Machine Learning, ISBM College of Engineering, Pune (2022 to 2026)
 
 ---
 
 ### the grind, visualized
 
 <div align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="productive coding gif"/>
-<br/>
-<sub><i>actual footage of me when the pipeline finally runs clean</i></sub>
-</div>
 
-<br/>
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishna9588&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna9588&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Krishna9588&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna9588&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+![stats](https://github-readme-stats.vercel.app/api?username=Krishna9588&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9) ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna9588&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
 
 </div>
-
-<br/>
 
 ---
 
-### where I'm headed
+### where I am headed
 
-The thing I want to build eventually sits at the intersection of autonomous systems and intelligent software. Drones that don't just fly, but understand their environment. Robots that use AI as a nervous system, not a feature checkbox.
+The long term plan is **autonomous systems with real intelligence**. Drones that understand what they see. Robots that use AI as a nervous system, not a feature on a slide. Archiscan AI and the Drone Security Agent are the first steps.
 
-Everything I'm building now is laying the foundation for that.
-
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="future tech gif"/>
-<br/>
-<sub><i>the plan. ambitious? yes. unhinged? maybe.</i></sub>
-</div>
-
-<br/>
+![future tech gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+*the plan. ambitious? yes. unhinged? maybe.*
 
 ---
 
-### you scrolled all the way down. here's your reward
+### you scrolled all the way down. here is your reward
 
-<div align="center">
+![surprise gif](https://media.giphy.com/media/3o7aD4ubUVr8EkgQF2/giphy.gif)
 
-<img src="https://media.giphy.com/media/3o7aD4ubUVr8EkgQF2/giphy.gif" width="260" alt="surprise gif"/>
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23c9d1d9&qColor=%2358a6ff&aColor=%231f6feb" alt="Jokes Card" />
-
-<br/>
-<sub><i>refreshes on every visit. just like my commitment to fixing that one bug.</i></sub>
-
-</div>
-
-<br/>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23c9d1d9&qColor=%2358a6ff&aColor=%231f6feb)  
+*refreshes on every visit. just like my commitment to fixing that one bug.*
 
 ---
 
@@ -176,12 +194,14 @@ Everything I'm building now is laying the foundation for that.
 
 **find me here**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/krishnabirla/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:krishnabirla336@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Krishna9588)
+<a href="https://www.linkedin.com/in/krishnabirla/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="46" height="46"></a>
+&nbsp;&nbsp;
+<a href="mailto:krishnabirla336@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="46" height="46"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Krishna9588"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="46" height="46"></a>
 
-<br/>
+<sub>This README was updated after a very long gap. The commit history knows.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer)
 
 </div>
