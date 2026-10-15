@@ -22,7 +22,7 @@
 <pre>
 name:      Krishna Birla
 role:      AI/ML Engineer
-works_at:  ProPlus Data (Jr. ML Associate)
+works_at:  Sstudize (AIML Engineer) EdTech Startup
 based_in:  Pune, India
 building:  RAG systems, agent pipelines, backends
 next:      B2B services, Edutech, observing 
